@@ -17,7 +17,10 @@ Manifest URL : `https://raw.githubusercontent.com/Cpt-Igloo/ogre-kingdom-wfrp4e/
 
 ## Legal Mentions
 Module Developer : Noober
-Author: Big Boss. Rules Development: Big Boss. Design: Big Boss. Editing: Big Boss. Contributors: DatOrkBoss, EverXChosen, Seraphicus
+Author: Big Boss. 
+Rules Development: Big Boss. 
+Design: Big Boss. 
+Contributors: DatOrkBoss, EverXChosen, Seraphicus
 This module is for non-commercial use as a fan supplement to the Warhammer Fantasy Roleplay 4th Edition Foundry module.
 
 ## Thanks
