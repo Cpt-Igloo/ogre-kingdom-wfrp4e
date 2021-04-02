@@ -1,0 +1,357 @@
+{
+  "name": "Ogre Random Career",
+  "extend": true,
+  "columns": [
+    "ogre"
+  ],
+  "rows": [
+    {
+      "range": {
+        "ogre": [
+          1,
+          1
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.FW2VeYf0vUUFbVE6]{Apothecary}"
+    },
+    {
+      "range": {
+        "ogre": [
+          2,
+          2
+        ]
+      },
+      "name": "@Compendium[ogre-kingdom-wfrp4e.journalentries-ok.NqzpYgmiNBQ5EEIe]{Firebelly}"
+    },
+    {
+      "range": {
+        "ogre": [
+          3,
+          5
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.AlriWm9KtKnDAMw1]{Artisan}"
+    },
+    {
+      "range": {
+        "ogre": [
+          6,
+          7
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.FLqzxS5gxKflqDUk]{Merchant}"
+    },
+    {
+      "range": {
+        "ogre": [
+          8,
+          12
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.0DuRRCYdahOKxDPF]{Rat Catcher}"
+    },
+    {
+      "range": {
+        "ogre": [
+          13,
+          15
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.Tt8DCpewqkmBq02v]{Watchman}"
+    },
+    {
+      "range": {
+        "ogre": [
+          16,
+          16
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.RNcsFphKVYohTrS9]{Duellist}"
+    },
+    {
+      "range": {
+        "ogre": [
+          17,
+          17
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.g12yhcU74qsRKxXX]{Servant}"
+    },
+    {
+      "range": {
+        "ogre": []
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.dWLxT0zRnDFbwTKZ]{Spy}"
+    },
+    {
+      "range": {
+        "ogre": [
+          18,
+          18
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.ZAItIWSNYQPb1pmi]{Warden}"
+    },
+    {
+      "range": {
+        "ogre": [
+          19,
+          20
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.WbjmnVlyJ9VP2nt4]{Bailiff}"
+    },
+    {
+      "range": {
+        "ogre": [
+          21,
+          25
+        ]
+      },
+      "name": "@Compendium[ogre-kingdom-wfrp4e.journalentries-ok.O8AIlSTG8WoU5YcE]{Ogre Hunter}"
+    },
+    {
+      "range": {
+        "ogre": [
+          26,
+          27
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.lWT9EiFL6a09w0h9]{Miner}"
+    },
+    {
+      "range": {
+        "ogre": [
+          28,
+          28
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.Xl9yyv67BB8a8XFo]{Scout}"
+    },
+    {
+      "range": {
+        "ogre": [
+          29,
+          35
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.btrs5XFk2OQsCtqj]{Villager}"
+    },
+    {
+      "range": {
+        "ogre": [
+          36,
+          40
+        ]
+      },
+      "name": "@Compendium[ogre-kingdom-wfrp4e.journalentries-ok.KbicJ104IcnF398A]{Maneater}"
+    },
+    {
+      "range": {
+        "ogre": [
+          41,
+          45
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.bsQN8B1mtZhl2WRu]{Bounty Hunter}"
+    },
+    {
+      "range": {
+        "ogre": [
+          46,
+          48
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.BnA8KJuCw16zwOVC]{Coachman}"
+    },
+    {
+      "range": {
+        "ogre": [
+          49,
+          49
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.8zowZP5UEKTM9ehU]{Road warden}"
+    },
+    {
+      "range": {
+        "ogre": [
+          50,
+          50
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.14nKRAT6nMCMGSUf]{Boatman}"
+    },
+    {
+      "range": {
+        "ogre": [
+          51,
+          53
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.LaTDWvLySPKGojiW]{Huffer}"
+    },
+    {
+      "range": {
+        "ogre": [
+          54,
+          56
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.EBpCBitHuWElKf3D]{Riverwarden}"
+    },
+    {
+      "range": {
+        "ogre": [
+          57,
+          60
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.wu6aG1XPdzvpiLcR]{Seaman}"
+    },
+    {
+      "range": {
+        "ogre": [
+          61,
+          61
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.TaOvUqKMJoPeuynD]{Smuggler}"
+    },
+    {
+      "range": {
+        "ogre": [
+          62,
+          67
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.lDvbNLRfv9MsNyf6]{Stevedore}"
+    },
+    {
+      "range": {
+        "ogre": [
+          68,
+          72
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.AnW8kwDb9koFgMPx]{Wrecker}"
+    },
+    {
+      "range": {
+        "ogre": [
+          73,
+          73
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.MY4aFbQL5T9znCUd]{Bawd}"
+    },
+    {
+      "range": {
+        "ogre": [
+          74,
+          74
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.W2Ovj3ec7eqZUuuv]{Grave Robber}"
+    },
+    {
+      "range": {
+        "ogre": [
+          75,
+          77
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.mOljt11dxZENtmoR]{Outlaw}"
+    },
+    {
+      "range": {
+        "ogre": [
+          78,
+          78
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.yGZN7bMjbGH7kCMK]{Racketeer}"
+    },
+    {
+      "range": {
+        "ogre": [
+          79,
+          79
+        ]
+      },
+      "name": "@Compendium[ogre-kingdom-wfrp4e.journalentries-ok.jIEc62Vs34NCfDXG]{Irongut}"
+    },
+    {
+      "range": {
+        "ogre": [
+          80,
+          90
+        ]
+      },
+      "name": "@Compendium[ogre-kingdom-wfrp4e.journalentries-ok.jkIu9G32Ngp9aSvo]{Crusher}"
+    },
+    {
+      "range": {
+        "ogre": [
+          91,
+          93
+        ]
+      },
+      "name": "@Compendium[ogre-kingdom-wfrp4e.journalentries-ok.VzcSz0fRZNkSh5uO]{Leadbelcher}"
+    },
+    {
+      "range": {
+        "ogre": [
+          94,
+          94
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.qaL8gLZdfOL5F5UV]{Guard}"
+    },
+    {
+      "range": {
+        "ogre": [
+          95,
+          95
+        ]
+      },
+      "name": "@Compendium[ogre-kingdom-wfrp4e.journalentries-ok.NG8L0KRwviEVjSQa]{Mournfang Cavalry}"
+    },
+    {
+      "range": {
+        "ogre": [
+          96,
+          96
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.15N8GauWXWfbYbEQ]{Pit Fighter}"
+    },
+    {
+      "range": {
+        "ogre": [
+          97,
+          97
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.mlLVNBKIUnonqka2]{Protagonist}"
+    },
+    {
+      "range": {
+        "ogre": [
+          98,
+          99
+        ]
+      },
+      "name": "@Compendium[wfrp4e-core.career-descriptions.kT0ZI0LoHmIvhjPk]{Soldier}"
+    },
+    {
+      "range": {
+        "ogre": [
+          100,
+          100
+        ]
+      },
+      "name": "@Compendium[ogre-kingdom-wfrp4e.journalentries-ok.tCcs7k308oloDqEj]{Ogre Butcher}"
+    }
+  ]
+}
