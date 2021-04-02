@@ -5,7 +5,7 @@ The original PDF can be find [Here.](https://drive.google.com/drive/folders/17K5
 
 This module is specifically designed for the [WFRP4e system](https://github.com/moo-man/WFRP4e-FoundryVTT)
 
-Manifest URL : `link here`
+Manifest URL : `https://raw.githubusercontent.com/Cpt-Igloo/ogre-kingdom-wfrp4e/main/module.json`
 
 ## What's Included
 - New Ogre Careers
