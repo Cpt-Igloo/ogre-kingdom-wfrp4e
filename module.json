@@ -1,7 +1,7 @@
 {
    "name": "ogre-kingdom-wfrp4e",
    "title": "Ogre Kingdom [WFRP4]",
-   "description": "Adds ogre as playable race, as well as ogre careers, ogre themed bestiary and ogre trappings.",
+   "description": "Adapted from Big Boss' unofficial supplement.Adds ogre as playable race, as well as ogre careers, ogre themed bestiary and ogre trappings.",
    "author": "Noober",
    "systems": ["wfrp4e"],
    "version": "0.1.0",
