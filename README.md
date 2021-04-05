@@ -16,12 +16,11 @@ Manifest URL : `https://raw.githubusercontent.com/Cpt-Igloo/ogre-kingdom-wfrp4e/
 - An ogre themed Bestiary
 
 ## Legal Mentions
-Module Developer : Noober
-Author: Big Boss. 
-Rules Development: Big Boss. 
-Design: Big Boss. 
-Contributors: DatOrkBoss, EverXChosen, Seraphicus
-This module is for non-commercial use as a fan supplement to the Warhammer Fantasy Roleplay 4th Edition Foundry module.
+**Module Developer :** Noober
+**Author:** Big Boss. 
+**Rules Development:** Big Boss. 
+**Design:** Big Boss. 
+**Contributors:** DatOrkBoss, EverXChosen, Seraphicus  This module is for non-commercial use as a fan supplement to the Warhammer Fantasy Roleplay 4th Edition Foundry module.
 
 ## Thanks
 - Big Boss
