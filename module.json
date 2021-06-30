@@ -15,7 +15,12 @@
       "entity": "Item",
       "module": "ogre-kingdom-wfrp4e",
       "system": "wfrp4e",
-      "tags": "trapping"
+      "tags": [
+              "trapping",
+              "armour",
+              "weapon",
+              "ammunition"
+          ]
     },
     {
       "name": "careers-ok",
