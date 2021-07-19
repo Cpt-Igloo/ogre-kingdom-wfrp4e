@@ -35,12 +35,11 @@ Hooks.on("setup", () => {
         "Resistance (Mutation), Strong-minded",
         "Night Vision",
         "Very Resilient, Very Strong",
-        "Second Sight, Sixth Sense",
-        "Trait - Bite",
-        "Trait - Size (Large)",
-        "Psychology - Ogre Hunger",
-        "Psychology - Favorite Snack (Target)",
-        "Ogre Tribe Trait (Any)",
+        "@Compendium[wfrp4e-core.traits.pLW9SVX0TVTYPiPv]{Bite}",
+        "@Compendium[wfrp4e-core.traits.8slW8CJ2oVTxeQ6q]{Size (Large)}",
+        "@Compendium[ogre-kingdom-wfrp4e.talents-ok.U0OKeE96CHpc5mVd]{Ogre Hunger}",
+        "@Compendium[ogre-kingdom-wfrp4e.talents-ok.lRzoGVuZzWsh70DU]{Favorite Snack (Target)}",
+        "@Compendium[ogre-kingdom-wfrp4e.journalentries-ok.NmRpHy8Zw76PdwKP]{Ogre Tribe Trait (Any)}",
         0
     ]
 
@@ -121,11 +120,11 @@ Hooks.on("setup", () => {
         },
         //Generate Nickname
         surname(gender = "male") {
-          let snresult = new Roll("1d4").roll().total;
+          let snresult = new Roll("1d3").roll().total;
           let nameGen = game.wfrp4e.names
-          if (snresult < 4)
+          if (snresult < 3)
             return `${nameGen.RollArray(`ogre_title_prefixes`)}${nameGen.RollArray(`ogre_title_suffixes`)}`
-          else if (snresult == 4)
+          else if (snresult == 3)
             return `the ${nameGen.RollArray(`ogre_titles`)}`
         }
       }
