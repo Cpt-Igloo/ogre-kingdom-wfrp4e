@@ -111,21 +111,23 @@ Hooks.on("setup", () => {
     game.wfrp4e.names.ogre = {
         // Generate First Name
         forename(gender = "male") {
-          let fnresult = new Roll("1d2").roll().total;
-          let nameGen = game.wfrp4e.names
+          let fnresult = Math.floor(Math.random() * 3 + 1)
+          console.log(fnresult)
+          //let nameGen = game.wfrp4e.names
           if (fnresult == 1)
             return game.wfrp4e.names.RollArray(`ogre_names`)
-          else if (fnresult == 2)
-            return `${nameGen.RollArray(`ogre_name_prefixes`)}${nameGen.RollArray(`ogre_name_suffixes`)}`
+          else if (fnresult > 1)
+            return `${game.wfrp4e.names.RollArray(`ogre_name_prefixes`)}${game.wfrp4e.names.RollArray(`ogre_name_suffixes`)}`
         },
         //Generate Nickname
         surname(gender = "male") {
-          let snresult = new Roll("1d3").roll().total;
-          let nameGen = game.wfrp4e.names
+          let snresult = Math.floor(Math.random() * 3 + 1)
+          console.log(snresult)
+          //let nameGen = game.wfrp4e.names
           if (snresult < 3)
-            return `${nameGen.RollArray(`ogre_title_prefixes`)}${nameGen.RollArray(`ogre_title_suffixes`)}`
+            return `${game.wfrp4e.names.RollArray(`ogre_title_prefixes`)}${game.wfrp4e.names.RollArray(`ogre_title_suffixes`)}`
           else if (snresult == 3)
-            return `the ${nameGen.RollArray(`ogre_titles`)}`
+            return `the ${game.wfrp4e.names.RollArray(`ogre_titles`)}`
         }
       }
     

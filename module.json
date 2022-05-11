@@ -4,9 +4,10 @@
   "description": "Adaptation of Big Boss' unofficial supplement. Adds ogre as playable race, as well as ogre careers, ogre themed bestiary and ogre trappings.",
   "author": "Noober",
   "systems": ["wfrp4e"],
-  "version": "0.2.0",
+  "version": "0.2.1",
   "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion":"0.8.8",
+  "compatibleCoreVersion":"9",
+  "system": ["wfrp4e"],
   "packs": [
    {
      "name": "trappings-ok",
@@ -15,45 +16,37 @@
      "entity": "Item",
      "module": "ogre-kingdom-wfrp4e",
      "system": "wfrp4e",
-     "tags": [
-             "trapping",
-             "armour",
-             "weapon",
-             "ammunition"
-         ]
+     "type": "Item"
    },
    {
      "name": "careers-ok",
      "label": "Ogre Careers (Ogre Kingdom)",
      "path": "packs/careers-ok.db",
-     "entity": "Item",
      "module": "ogre-kingdom-wfrp4e",
      "system": "wfrp4e",
-     "tags" : "career"
+     "type": "Item"
    },
    {
      "name": "bestiary-ok",
      "label": "Bestiary (Ogre Kingdom)",
      "path": "packs/bestiary-ok.db",
-     "entity": "Actor",
      "module": "ogre-kingdom-wfrp4e",
      "system": "wfrp4e",
-     "tags" : "actor"
+     "type" : "Actor"
    },
    {
        "name": "talents-ok",
        "label": "Ogre Talents & Psychologies (Ogre Kingdom)",
        "path": "packs/talents-ok.db",
-       "entity": "Item",
        "system": "wfrp4e",
        "module": "ogre-kingdom-wfrp4e",
-       "tags": "talent"
+       "type": "Item"
    },
    {
      "name": "journalentries-ok",
      "label": "Ogre character rules & Career Descriptions",
      "path": "packs/journalentries-ok.db",
-     "entity": "JournalEntry",
+     "type": "JournalEntry",
      "module": "ogre-kingdom-wfrp4e",
      "system": "wfrp4e"
    },
@@ -61,10 +54,17 @@
        "name": "spells-ok",
        "label": "Great Maw Spells (Ogre Kingdom)",
        "path": "packs/spells-ok.db",
-       "entity": "Item",
+       "type": "Item",
        "system": "wfrp4e",
-       "module": "ogre-kingdom-wfrp4e",
-       "tags": "spell"
+       "module": "ogre-kingdom-wfrp4e"
+   },
+   {
+     "label": "Tables (Ogre Kingdom)",
+     "type": "RollTable",
+     "name": "tables-ok",
+     "path": "packs/tables-ok.db",
+     "system": "wfrp4e",
+     "module": "ogre-kingdom-wfrp4e"
    }
  ],
  "languages": [
